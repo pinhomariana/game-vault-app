@@ -18,7 +18,7 @@ class NavBar extends Component {
        <img src={logo} alt="Game Vault Logo" className="navbar__logo" />
         <div>
           <ul id="nav-bar" className={this.state.clicked ? "#nav-bar active" : "#nav-bar"}>
-              <li><Link to="/" className="active" href="index.html">Home</Link></li>
+              <li><Link to="/game-vault-app" className="active" href="index.html">Home</Link></li>
               <li><Link to="/about" href="index.html">About</Link></li>
               <li><a href="index.html">Add Game</a></li>
           </ul>

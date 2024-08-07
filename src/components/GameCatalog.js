@@ -7,7 +7,7 @@ export default function GameCatalog() {
 
     const [games, setGames] = useState([]); 
 
-    const API_KEY = "3908ab5ff590472c850f65f4d13c5761"
+    const API_KEY = process.env.REACT_APP_API_KEY;
     const API_URL = `https://api.rawg.io/api/games?key=${API_KEY}&dates=2019-09-01,2019-09-30&platforms=18,1,7`
 
     async function getData() {

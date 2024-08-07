@@ -1,0 +1,21 @@
+.catalog-container {
+    margin: 0;
+    padding-top: calc(4rem + 96px); 
+    font-family: "Roboto", sans-serif;
+    background-size: cover;
+    background-position: center;
+    color: #000000;
+    min-height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .game-list {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 2rem; 
+    padding: 1rem; 
+    justify-content: center;
+}

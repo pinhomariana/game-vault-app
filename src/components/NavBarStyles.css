@@ -46,8 +46,7 @@ nav {
 }
 
 
-#nav-bar li a:hover,
-#nav-bar li a.active{
+#nav-bar li a:hover {
     color:  #363839;
 }
 

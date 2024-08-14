@@ -20,7 +20,7 @@ class NavBar extends Component {
           <ul id="nav-bar" className={this.state.clicked ? "#nav-bar active" : "#nav-bar"}>
               <li><Link to="/game-vault-app" className="active">Home</Link></li>
               <li><Link to="/about">About</Link></li>
-              <li><Link to="/game-catalog">Add Game</Link></li>
+              <li><Link to="/game-catalog">See Games</Link></li>
           </ul>
         </div>
         <div className='mobile' onClick={this.handleClick}>

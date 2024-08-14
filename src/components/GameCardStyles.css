@@ -29,3 +29,12 @@
     border: 0.1rem solid #FFFFFF;
     padding: 0.2rem;
 }
+
+.card-container card-button{
+    width: 2000px;
+}
+
+.card-button a{
+    text-decoration: none;
+    color: #FFFFFF;
+}

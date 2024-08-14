@@ -1,0 +1,30 @@
+.game-details h1 {
+    padding-top: calc(4rem + 96px); 
+    padding-bottom: 1rem;
+    text-align: center;
+}
+
+.game-details img {
+    width: 50rem;
+    border-radius: 2rem;
+}
+
+.game-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-details .game-description{
+    text-align: center;
+    font-weight: bold;
+    margin: 2rem auto;
+    padding: 1rem;
+    font-size: 1.5rem;
+    width: 50rem;
+}
+
+.game-details p{
+    padding-bottom: 1rem;
+}

@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/game-vault-app/static/css/main.220aa03c.css",
-    "main.js": "/game-vault-app/static/js/main.27ded297.js",
-    "static/js/453.62529853.chunk.js": "/game-vault-app/static/js/453.62529853.chunk.js",
-    "static/media/background.jpg": "/game-vault-app/static/media/background.f8ce785f2eb3853766a7.jpg",
-    "static/media/spiderman.jpeg": "/game-vault-app/static/media/spiderman.4fda95bd45138eafe31c.jpeg",
+    "main.css": "/game-vault-app/static/css/main.57904207.css",
+    "main.js": "/game-vault-app/static/js/main.7fdb332b.js",
+    "static/media/background.jpg": "/game-vault-app/static/media/background.db6b5561253aa05618fb.jpg",
+    "static/media/spiderman.jpg": "/game-vault-app/static/media/spiderman.7e95aead474f21114f3f.jpg",
     "static/media/lightning_background.jpg": "/game-vault-app/static/media/lightning_background.40e2c84eb2098ac64088.jpg",
     "index.html": "/game-vault-app/index.html",
-    "main.220aa03c.css.map": "/game-vault-app/static/css/main.220aa03c.css.map",
-    "main.27ded297.js.map": "/game-vault-app/static/js/main.27ded297.js.map",
-    "453.62529853.chunk.js.map": "/game-vault-app/static/js/453.62529853.chunk.js.map"
+    "main.57904207.css.map": "/game-vault-app/static/css/main.57904207.css.map",
+    "main.7fdb332b.js.map": "/game-vault-app/static/js/main.7fdb332b.js.map"
   },
   "entrypoints": [
-    "static/css/main.220aa03c.css",
-    "static/js/main.27ded297.js"
+    "static/css/main.57904207.css",
+    "static/js/main.7fdb332b.js"
   ]
 }
